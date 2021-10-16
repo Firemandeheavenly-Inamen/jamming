@@ -1,7 +1,7 @@
 let accessToken;
 let expiresIn;
-const clientId = '86f8f621d81a4ce18bd21da9fd2da2b1';
-const redirectURI = 'http://localhost:3000/';
+const clientId = '6c3283bb730741bcbb347bff90753769';
+const redirectURI = 'http://dramatic-point.surge.sh';
 
 const Spotify = {
 	getAccessToken() {
