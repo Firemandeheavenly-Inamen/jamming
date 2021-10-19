@@ -33,7 +33,6 @@ export class SearchBar extends React.Component {
           onKeyPress={this.handleKeyPress}
         />
         <button
-          // href="https://vibrant-goldberg-9f4911.netlify.app/"
           onClick={this.search}
         >
           SEARCH
